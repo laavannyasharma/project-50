@@ -1,0 +1,36 @@
+.menu{
+    /*give color, background-color */
+    display: flex;
+    justify-content: space-between;
+    color:azure;
+ background-color:blueviolet;
+
+}
+body{
+
+    /*give background-color*/
+background-color:crimson;
+    
+}
+.grid{
+    
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+.grid img{
+    /*give border and border-color*/
+    border-radius:10px;
+    border:black;
+
+
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: white;
+    
+    width:310px;
+    font-family: fantasy;
+    
+}
